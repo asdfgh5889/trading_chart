@@ -1,4 +1,4 @@
 mixin WREntity {
   /// %R值
-  double get r;
+  double get range;
 }

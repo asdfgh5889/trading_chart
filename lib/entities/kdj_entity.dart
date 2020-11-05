@@ -1,5 +1,5 @@
 mixin KDJEntity {
-  double get k;
-  double get d;
-  double get j;
+  double get kLine;
+  double get dLine;
+  double get jLine;
 }
